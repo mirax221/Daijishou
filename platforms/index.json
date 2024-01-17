@@ -9,6 +9,13 @@
       "revisionNumber": 5
     },
     {
+      "filename": "SonyPSVita.json.test",
+      "platformName": "PlaystationVita",
+      "platformShortname": "PSVita",
+      "platformUniqueId": "PSVita",
+      "revisionNumber": 5
+    },
+    {
       "filename": "AmstradCPC.json",
       "platformName": "Amstrad CPC",
       "platformShortname": "cpc",
